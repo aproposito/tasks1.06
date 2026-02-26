@@ -1,0 +1,19 @@
+{
+    "name": "macmini_casa/task-s1_06_l3_php_1",
+    "description": "prueba",
+    "autoload": {
+        "psr-4": {
+            "MacminiCasa\\TaskS106L3Php1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alvaro",
+            "email": "aproposito@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}
